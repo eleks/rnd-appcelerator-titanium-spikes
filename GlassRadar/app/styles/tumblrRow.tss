@@ -1,0 +1,31 @@
+"#icon":{  
+ left:0,
+ top:5,  
+ height:70,  
+ width:70  
+}  
+
+"#title":{
+	left:80,
+	top:0,
+	height:80,
+	width:200
+}
+  
+"#tumblrRow":{
+	height: "80dp",
+	hasChild: true
+}
+  
+// "TableViewRow":{  
+ // layout:"horizontal"  
+// }  
+//   
+// "Label":{  
+ // color:'black',  
+ // font:{  
+  // fontFamily:"Ariel",  
+  // fontSize:'20dp',  
+  // fontWeight:'bold'  
+ // }  
+// }

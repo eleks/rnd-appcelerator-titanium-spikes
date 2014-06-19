@@ -1,0 +1,6 @@
+<Alloy>
+	<View id="view3">
+		<TableView id="table">
+		</TableView>	
+	</View>
+</Alloy>

@@ -1,0 +1,8 @@
+<Alloy>  
+ <TableViewRow id="tumblrRow">  
+ 	<!-- <View layout="horizontal"> -->
+  		<ImageView id="icon"></ImageView>>  
+  		<Label ns="require('ti.styledlabel')" id="title"></Label>
+  	<!-- </View> -->
+  </TableViewRow>  
+</Alloy>  
